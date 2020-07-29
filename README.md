@@ -3,3 +3,6 @@ Standard algorithms and data structures used in CAB301 (Algorithms and Complexit
 
 ### Prerequisites
 Java 8 or above.
+
+### Author
+Markus Dymalla
